@@ -1,2 +1,3 @@
 # micrograd
- A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API but in Rust.
+This is a Rust implementation of the well-known [micrograd](https://github.com/karpathy/micrograd) from Andrej Karpathy.
+
